@@ -1,0 +1,4 @@
+[flake8]
+exclude = .git,venv
+import-order-style = google
+max-line-length = 120
